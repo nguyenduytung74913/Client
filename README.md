@@ -1,3 +1,3 @@
-# LTM
-bài tập tuần sever, client
+# LTM-CLIENT
+bài tập tuần client
 Nguyễn Duy Tùng 74913 
